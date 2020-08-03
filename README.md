@@ -1,6 +1,6 @@
 # product-shop
 Kapsam
-● Kullanıcıların giriş – üyelik ve tüm kullanıcıları listeleyebildiği 3 ayrı ekran bulunuyor
+● Kullanıcıların giriş – üyelik ve tüm kullanıcıları listeleyebildiği 3 ayrı ekran bulunuyor <br>
 ● Kullanıcıların ürünleri listeleyeceği bir sayfa bulunuyor
 ● Kullanıcılar ürün detayları gösterebileceği bir sayfa bulunuyor.
 ● Sadece admin kullanıcıları tüm kullanıcıları listeleyebiliyor..
